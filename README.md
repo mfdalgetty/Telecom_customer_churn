@@ -1,6 +1,6 @@
 **Introduction**
 
-Customer Churn is a critical metric for businesses, especially in the telecommunications industry. The ability to retain customers directly impacts customer acquisition costs and, ultimately, the scalability and success of a business. The Telecom Customer Churn Analysis notebook on Google Colab is designed to leverage Data Analysis and Machine Learning techniques to gain insights into customer churn patterns and develop predictive models.
+Customer Churn is a critical metric for businesses, especially in the telecommunications industry. The ability to retain customers directly impacts customer acquisition costs and, ultimately, the scalability and success of a business. This Telecom Customer Churn Analysis notebook on Google Colab is designed to leverage Data Analysis and Machine Learning techniques to gain insights into customer churn patterns and develop predictive models.
 
 📊 Data Analysis:
 
@@ -12,7 +12,7 @@ Machine Learning plays a crucial role in predicting and preventing customer chur
 
 🔄 Model Refinement:
 
-The notebook emphasizes the importance of strategic data collection and iterative model refinement. Businesses can use insights gained from data analysis and machine learning models to continuously update their strategies for customer retention. This iterative approach ensures adaptability to evolving customer behavior and market dynamics.
+The notebook emphasizes the importance of strategic data collection and iterative model refinement. It also helps the user through some pitfalls common of customer churn problems, particularly the imbalanced dependent variable. Because the data shows that most customers do not churn, the models will tend to predict that outcome. This can be fixed with a minority oversampling technique.
 
 🚀 Continuous Revenue Growth and Scalability:
 
